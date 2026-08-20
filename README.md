@@ -1,2 +1,1 @@
-# hagox-web
-Web oficial de HAGOX — Industrial Evolution v0
+Pagina WEB HAGOX.com.ar
